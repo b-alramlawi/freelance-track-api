@@ -1,6 +1,6 @@
 # Freelance Track API
 
-![nodemongo](https://github.com/b-alramlawi/freelance-track-api/assets/63581864/b53e2a48-524d-494e-b86f-71d3a0780837)
+![nodemongo](https://github.com/b-alramlawi/freelance-track-api/assets/63581864/3026ce3f-b4d6-4bc5-8986-54d5cd34040f)
 
 ## Description
 
@@ -90,7 +90,7 @@ To install and use the Freelance Track API, follow these steps:
 
 The project follows a modular and organized structure, separating components like controllers, models, routes, and middleware. This structure promotes maintainability and code separation.
 
-![MVC3](https://github.com/b-alramlawi/freelance-track-api/assets/63581864/5ee70c71-3f60-4d70-b7b4-abc4cec167a5)
+![MVC3](https://github.com/b-alramlawi/freelance-track-api/assets/63581864/deedeb8e-01d2-458c-823c-0389ad43f31a)
 
 
 ## Data Modeling
