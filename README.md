@@ -92,7 +92,7 @@ To install and use the Freelance Track API, follow these steps:
 
 The project follows a modular and organized structure, separating components like controllers, models, routes, and middleware. This structure promotes maintainability and code separation.
 
-![MVC3](https://github.com/b-alramlawi/freelance-track-api/assets/63581864/deedeb8e-01d2-458c-823c-0389ad43f31a)
+![MVC3](https://www.freecodecamp.org/news/content/images/2021/04/MVC3.png)
 
 
 ## Data Modeling
